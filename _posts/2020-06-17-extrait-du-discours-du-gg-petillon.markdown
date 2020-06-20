@@ -4,7 +4,7 @@ title: "Extrait du discours du Gouverneur : Général Pétillon, à l'ouverture 
 date: 2020-06-17
 description: 
 image: /assets/images/uploads/congo-belge.jpg
-author: Michel Buhendwa
+author: Rédaction
 tags: 
   - Histoire
   - Archives

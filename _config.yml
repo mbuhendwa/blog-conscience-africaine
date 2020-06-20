@@ -10,12 +10,10 @@ description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
 url: http://barber.samesies.io
 twitter_username: thomasvaeth
-default_img: /assets/images/seo.jpg
+default_img: /assets/images/congo-belge.jpg
 social:
   - name: twitter
     url: https://twitter.com/ConscienceAfricaine
-  - name: instagram
-    url: https://www.instagram.com/ConscienceAfricaine/
   - name: facebook
     url: https://www.facebook.com/ConscienceAfricaine/
 
@@ -26,16 +24,11 @@ formcarry: https://formcarry.com/s/HkIo0nMb7
 # Disqus settings
 disqus: test-apkdzgmqhj
 
-# MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
-
 # Author settings
-author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
-
+# author:
+#   - name: Rédaction
+#     bio: Rédaction was born in Virginia, raised in the Democratic Republic of the Congo, and transplanted in Kenya. He was a Web Developer at Baaz, Inc. but now he's a freelance Software Engineer.
+#     url: https://mbuhendwa.github.io/
 # Pagination settings
 pagination:
   enabled: true

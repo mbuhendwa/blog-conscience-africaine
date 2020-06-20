@@ -1,0 +1,28 @@
+---
+layout: default
+pagination:
+  enabled: false
+---
+<!-- The main content area -->
+<section class="mast section-padding--double">
+    <div class="grid">
+      <h2>Rubriques</h2>
+    </div>
+  </section>
+  
+  <div class="section-padding--none">
+    <div class="grid-large">
+      <hr class="sep"/>
+    </div>
+  </div>
+<div class="posts">
+    <div class="grid-xlarge">
+
+        {% for tag in site.tags %}
+            <h3><a href="/tag/{{ tag | first | slugify }}">{{ tag | first }}</a></h3>
+        {% endfor %}
+        
+    </div>
+  
+  </div>
+  

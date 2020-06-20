@@ -4,12 +4,12 @@ title: "Le Manifeste de Conscience Africaine"
 date: 2020-06-17
 description: 
 image: /assets/images/uploads/congo-belge.jpg
-author: Michel Buhendwa
+author: Rédaction
 tags: 
   - Histoire
   - Archives
 ---
-> "Le manifeste de Conscience Africaine est un manifeste publié en 1956 par le bimensuel *Conscience Africaine* avec Joseph Ileo comme rédacteur en chef dans son édition de Juillet à Août. Il est une réaction de quelques évolués congolais à la publication du Plan de 30 ans du professeur Jef Van Bilsen alors étudiant à l’Université de Louvain ainsi qu'au discours du Gouverneur Général Léon Pétillon. Ci-dessous le texte du manifeste tel que publié dans l'édition de Juillet-Août 1956"<cite>Michel Buhendwa</cite>
+> "Le manifeste de Conscience Africaine est un manifeste publié en 1956 par le bimensuel *Conscience Africaine* avec Joseph Ileo comme rédacteur en chef dans son édition de Juillet à Août. Il est une réaction de quelques évolués congolais à la publication du Plan de 30 ans du professeur Jef Van Bilsen alors étudiant à l’Université de Louvain ainsi qu'au discours du Gouverneur Général Léon Pétillon. Ci-dessous le texte du manifeste tel que publié dans l'édition de Juillet-Août 1956"<cite>Rédaction</cite>
 <hr>
 
 L'équipe de rédaction de Conscience Africaine a consacré de nombreuses réunions à l'étude des difficiles problèmes de l'avenir du Congo.

@@ -4,7 +4,7 @@ title: "Extrait du « Plan de trente ans » du Professeur A. A. Jef Van Bilsen, 
 date: 2020-06-17
 description: 
 image: /assets/images/uploads/congo-belge.jpg
-author: Michel Buhendwa
+author: Rédaction
 tags: 
   - Histoire
   - Archives
